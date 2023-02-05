@@ -1,7 +1,7 @@
 ### Hi there👋
 
 
-<p align="center"> Проекты Data Analyst </p align="center">
+<p align="center"> Проекты курса Яндекс.Практикум «Аналитик данных» — [репозиторий](https://github.com/DmitryKostin/yandex-praktikum-data-analyst) </p align="center">
 
 
 | **Проект** | **Тип исследования** |
