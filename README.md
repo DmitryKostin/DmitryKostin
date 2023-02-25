@@ -7,6 +7,7 @@
 | [01. Анализ влияния денежных потоков на финансовую устойчивость компании в сфере телекоммуникаций](https://nbviewer.org/github/DmitryKostin/data-analysis-projects/blob/main/01_cash_flow_financial_stability_analysis/cash_flow_financial_stability_analysis.ipynb) | Исследование влияния эффективного управления денежными потоками на финансовую устойчивость компании |
 | [02. Прогнозирование оттока студентов с онлайн-курса на платформе Stepik](https://nbviewer.org/github/DmitryKostin/data-analysis-projects/blob/main/02_students_outflow_project/students_outflow_project.ipynb) | Предсказание с помощью базовых ML-моделей, бросит ли студент учебу на онлайн-курсе на основе его активности в первые 3 дня пребывания на курсе. |
 | [03. RFM-анализ и сегментация клиентов e-commerce маркетплейса](https://nbviewer.org/github/DmitryKostin/data-analysis-projects/blob/main/03_rfm_analysis_project/rfm_analysis_project.ipynb) | Исследовательский анализ и сегментация клиентов маркетплейса Olist с помощью методов RFM-анализа. |
+| [04. Геоаналитика отмененных заказов такси Gett](https://nbviewer.org/github/DmitryKostin/data-analysis-projects/blob/main/04_taxi_failed_orders_project/taxi_failed_orders_project.ipynb) | ... |
 
 <p align="center"> Проекты курса Яндекс.Практикум «Аналитик данных»  — <a href="https://github.com/DmitryKostin/yandex-praktikum-data-analyst">репозиторий</a>
 
