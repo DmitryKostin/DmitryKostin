@@ -9,6 +9,16 @@
 | [03. RFM-анализ и сегментация клиентов e-commerce маркетплейса](https://nbviewer.org/github/DmitryKostin/data-analysis-projects/blob/main/03_rfm_analysis_project/rfm_analysis_project.ipynb) | Исследовательский анализ и сегментация клиентов маркетплейса Olist с помощью методов RFM-анализа. |
 | [04. Геоаналитика отмененных заказов такси Gett](https://nbviewer.org/github/DmitryKostin/data-analysis-projects/blob/main/04_taxi_failed_orders_project/taxi_failed_orders_project.ipynb) | ... |
 
+  
+<p align="center"> Мои научные публикации по аналитике и финансам  — <a href="https://github.com/DmitryKostin/my-scientific-articles">репозиторий</a>
+  
+| **Статья** | **Описание исследования** |
+| -------------------- | :--------------------- |
+| [01. Статистический анализ денежных потоков и стоимостных факторов в целях управления стоимостью корпорации](https://nbviewer.org/github/DmitryKostin/my-scientific-articles/blob/main/01_statistical_cash_flow_analysis/statistical_cash_flow_analysis.ipynb) | Исследуется методика статистического анализа, рассматривающая взаимосвязь между распределением денежных потоков компании и различными ставками дисконтирования. На ее основе определяется стратегия управления стоимостью компании с учетом найденных дополнительных факторов роста. |
+| [02. Эффективное управление денежными потоками как фактор финансовой устойчивости предприятия в сфере телекоммуникаций](https://nbviewer.org/github/DmitryKostin/my-scientific-articles/blob/main/02_cash_flow_research_article/cash_flow_research_article.ipynb) | Исследуется влияние процесса управления денежными потоками на финансовую устойчивость предприятий. Проводится обзор современных тенденций развития рынка телекоммуникационных услуг России и рассматриваются ведущие компании отрасли. |
+| [03. Метод рынка капитала при оценке стоимости телекоммуникационной компании](https://nbviewer.org/github/DmitryKostin/my-scientific-articles/blob/main/03_capital_market_method_article/capital_market_method_article.ipynb) | Реализация метода рынка капитала в рамках сравнительного подхода при оценке стоимости телекоммуникационной компании ПАО «Ростелеком». |  
+
+  
 <p align="center"> Проекты курса Яндекс.Практикум «Аналитик данных»  — <a href="https://github.com/DmitryKostin/yandex-praktikum-data-analyst">репозиторий</a>
 
 | **Проект** | **Тип исследования** |
@@ -29,10 +39,4 @@
 
 
   
-<p align="center"> Мои научные публикации по аналитике и финансам  — <a href="https://github.com/DmitryKostin/my-scientific-articles">репозиторий</a>
-  
-| **Статья** | **Описание исследования** |
-| -------------------- | :--------------------- |
-| [01. Статистический анализ денежных потоков и стоимостных факторов в целях управления стоимостью корпорации](https://nbviewer.org/github/DmitryKostin/my-scientific-articles/blob/main/01_statistical_cash_flow_analysis/statistical_cash_flow_analysis.ipynb) | Исследуется методика статистического анализа, рассматривающая взаимосвязь между распределением денежных потоков компании и различными ставками дисконтирования. На ее основе определяется стратегия управления стоимостью компании с учетом найденных дополнительных факторов роста. |
-| [02. Эффективное управление денежными потоками как фактор финансовой устойчивости предприятия в сфере телекоммуникаций](https://nbviewer.org/github/DmitryKostin/my-scientific-articles/blob/main/02_cash_flow_research_article/cash_flow_research_article.ipynb) | Исследуется влияние процесса управления денежными потоками на финансовую устойчивость предприятий. Проводится обзор современных тенденций развития рынка телекоммуникационных услуг России и рассматриваются ведущие компании отрасли. |
-| [03. Метод рынка капитала при оценке стоимости телекоммуникационной компании](https://nbviewer.org/github/DmitryKostin/my-scientific-articles/blob/main/03_capital_market_method_article/capital_market_method_article.ipynb) | Реализация метода рынка капитала в рамках сравнительного подхода при оценке стоимости телекоммуникационной компании ПАО «Ростелеком». |
+
