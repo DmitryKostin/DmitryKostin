@@ -75,8 +75,8 @@ ________________________________________________________________________________
 | -------------------- | :--------------------- |
 | [01. Анализ динамики продуктовой воронки Тинькофф Квест](https://nbviewer.org/github/DmitryKostin/tinkoff-industry-data-analysis/blob/main/03_tinkoff_module_project_1/tinkoff_module_project_1.ipynb) | Построение и анализ воронки, показывающей в динамике по неделям и месяцам, сколько клиентов посещает сайт, какая доля из них регистрируется, подает заявку на игру и по факту приходит на нее. |
 | [02. Математическая статистика](https://nbviewer.org/github/DmitryKostin/tinkoff-industry-data-analysis/blob/main/04_math_stat/math_stat.ipynb) | ... |
-| [02. Проведение A/B-тестов: проверка гипотез](https://nbviewer.org/github/DmitryKostin/tinkoff-industry-data-analysis/blob/main/05_hypothesis_testing/hypothesis_testing.ipynb) | ... |
-| [03. A/B-тестирование процесса продажных обзвонов и оформления кредитных карт](https://nbviewer.org/github/DmitryKostin/tinkoff-industry-data-analysis/blob/main/06_tinkoff_module_project_2/tinkoff_module_project_2.ipynb) | Проведение двух A/B тестов: от определения целевой метрики и альтернативы до получения выборки и проверки гипотезы. |
+| [03. Проведение A/B-тестов: проверка гипотез](https://nbviewer.org/github/DmitryKostin/tinkoff-industry-data-analysis/blob/main/05_hypothesis_testing/hypothesis_testing.ipynb) | ... |
+| [04. A/B-тестирование процесса продажных обзвонов и оформления кредитных карт](https://nbviewer.org/github/DmitryKostin/tinkoff-industry-data-analysis/blob/main/06_tinkoff_module_project_2/tinkoff_module_project_2.ipynb) | Проведение двух A/B тестов: от определения целевой метрики и альтернативы до получения выборки и проверки гипотезы. |
 
   
 <a href="#top"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
